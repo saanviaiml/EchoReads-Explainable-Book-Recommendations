@@ -1,6 +1,3 @@
-Here’s a polished **`README.md`** you can directly put in your repo:
-
----
 
 #  EchoReads — Explainable Book Recommendations
 
@@ -108,6 +105,3 @@ scikit-learn
 * Integrate collaborative filtering
 * Add user profile persistence
 * Deploy as a web app using **Flask** or **Streamlit**
-
-I can also prepare you a **`requirements.txt`** so your GitHub is plug-and-play.
-Do you want me to make that next?
